@@ -1,2 +1,1 @@
-# Portfolio
-My website about me!
+# [Click here to visit my website!](https://www.stanleyjh.com)
