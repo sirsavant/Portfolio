@@ -1,3 +1,11 @@
 # [Click here to visit my website!](https://www.stanleyjh.com)
 
-This repository was created to jot down notes about my website.
+I used wordpress to create my website with the elementor plugin. 
+
+My objectives for the site:
+-Learn wordpress.
+-Showcase my projects.
+-Tell the world who I am.
+
+Note to self:
+Header color: #353a40
